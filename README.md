@@ -1,6 +1,6 @@
 === Plugin Name ===
 
-MainWP Child Plugin auto downloader.
+MainWP Child Plugin Auto Downloader.
 
 Donate link: https://www.buymeacoffee.com/kwcjr   
 Requires at least: 5.8.2   
