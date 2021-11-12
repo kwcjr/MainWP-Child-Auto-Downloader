@@ -1,0 +1,10 @@
+[
+  {
+    "name": "MainWP Child",
+    "host": "wordpress",
+    "slug": "mainwp-child/mainwp-child.php",
+    "uri": "https://wordpress.org/plugins/mainwp-child/",
+    "branch": "master",
+    "optional": false
+  }
+]
