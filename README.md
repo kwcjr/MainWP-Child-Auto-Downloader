@@ -42,6 +42,7 @@ Create a signup form simply requesting an **Admin Account Username** that your c
 * Add settings to Auto Hide the MainWP Child Plugin from the gate ( config )
 * Add settings for Auto Enable MainWP Child Plugin Security ID & append to Email Notifications ( config ) 
 * Add core Updater Script to keep the MainWP Child Auto Uploader core updated from witin WordPress Admin. ( ignoring settings config files )
+* Add core Framework
 
 
  Feel free to submit requests and issues with the provided tags here:   
