@@ -34,3 +34,6 @@ This plugin checks to see if the MainWP Child plugin is installed and activated;
 * Add white-label settings so it’s easier to setup ( config )
 * Auto Enable MainWP Child Plugin Security ID & append to Email Notifications ( config ) 
 * Email notifications
+
+
+ Feel free to submit requests and issues here: https://github.com/kwcjr/MainWP-Child-Auto-Downloader/issues
