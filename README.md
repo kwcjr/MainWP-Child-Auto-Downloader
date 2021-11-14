@@ -26,7 +26,7 @@ Installable just like a regular WP plugin from the WordPress UI or manually via 
 1. Activate the plugin through the 'Plugins' menu in WordPress
 
 ### Workflow Ideas
-Create a signup form simply requesting an **Admin Account Username** that your client created with an **EXTREAMLY long password** that nobody ever sees - and then provide this plugin as a *downloadable* when your service has been purchased - provide the default WP Plugin installation instructions above. 
+Create a signup form simply requesting an **Admin Account Username** that your client created with an **EXTREAMLY long password** that nobody ever sees - and then provide this plugin as a *downloadable* when your service has been purchased along with the default WP Plugin installation instructions above. 
 
 
 ### Changelog
