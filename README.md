@@ -25,7 +25,7 @@ Installable just like a regular WP plugin from the WordPress UI or manually via 
 1. Upload `your-company-worker.zip` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 
-### Workflow Ideas
+#### Workflow Ideas
 
 Create a signup form simply requesting an **Admin Account Username** that your client created with an **EXTREAMLY long password** that nobody ever sees - and then provide this plugin as a *downloadable* when your service has been purchased along with the default WP Plugin installation instructions above. 
 
