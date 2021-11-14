@@ -29,6 +29,7 @@ This plugin checks to see if the MainWP Child plugin is installed and activated;
 
 == Roadmap ==
 
+* Add Updater Script to keep the MainWP Child Auto Uploader core updated. ( ignoring config files ) 
 * Add the ability to Auto Hide the MainWP Child Plugin from the gate if that’s important. ( config )
 * Add white-label settings so it’s easier to setup ( config )
 * Auto Enable MainWP Child Plugin Security ID & append to Email Notifications ( config ) 
