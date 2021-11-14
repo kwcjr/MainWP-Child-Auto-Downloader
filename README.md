@@ -13,14 +13,23 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin checks to see if the MainWP Child plugin is installed and activated; If not, it will download it & install / activate it.
 
-== Installation ==
+== Setup ==
 
 1. Download this repository & Unzip to desktop
 1. Open folder & Rename `company-worker.php` to `your-company-worker.php`
 1. Edit `your-company-worker.php` & update with `YOUR COMPANY` info under `@wordpress-plugin`
 1. Highlight files & Create `your-company-worker.zip`
+
+== Installation ==
+
+Installable just like a regular WP plugin from the WordPress UI or manually via SFTP.
+
 1. Upload `your-company-worker.zip` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
+
+### Workflow Ideas ###
+Create a signup form simply requesting an `Admin Account Username` that your client created with an EXTREAMLY long password that nobody ever sees - and then provide this plugin as a downloadable when your service has been purchased - provide the derfault WP Plugin installation instructions above. 
+
 
 == Changelog ==
 
