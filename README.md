@@ -36,5 +36,5 @@ This plugin checks to see if the MainWP Child plugin is installed and activated;
 * Email notifications
 
 
- Feel free to submit requests and issues with the provided tags here: 
+ Feel free to submit requests and issues with the provided tags here:   
  https://github.com/kwcjr/MainWP-Child-Auto-Downloader/issues
