@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-This plugin checks to see if the MainWP Child plugin is installed and activated; If not, it will download it and install it.
+This plugin checks to see if the MainWP Child plugin is installed and activated; If not, it will download it, install & activate it.
 
 == Installation ==
 
