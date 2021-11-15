@@ -14,7 +14,7 @@ This plugin checks to see if the MainWP Child plugin is installed and activated;
 ## Setup
 
 1. Download this repository & Unzip to desktop
-1. Open folder & Rename `company-worker.php` to `your-company-worker.php`
+1. ( optional ) Open folder & Rename `company-worker.php` to `your-company-worker.php`
 1. Edit `your-company-worker.php` & update with `YOUR COMPANY` info under `@wordpress-plugin`
 1. Highlight files & Create `your-company-worker.zip`
 
