@@ -13,9 +13,16 @@ This plugin checks to see if the MainWP Child plugin is installed and activated;
 
 ## Setup
 
+### Prefered Method ( Can keep updated with Git ) 
+
+1. Open a Terminal and type the following command `gh repo clone kwcjr/MainWP-Child-Auto-Downloader ./your-company-worker`
+1. Open folder & Edit `company-worker.php` & update with `YOUR COMPANY` info under `@wordpress-plugin`
+1. Highlight folder & Create `your-company-worker.zip`
+
+### Alternative Method
+
 1. Download this repository & Unzip to desktop
-1. ( optional ) Open folder & Rename `company-worker.php` to `your-company-worker.php`
-1. Edit `your-company-worker.php` & update with `YOUR COMPANY` info under `@wordpress-plugin`
+1. Open folder & Edit `company-worker.php` & update with `YOUR COMPANY` info under `@wordpress-plugin`
 1. Highlight files & Create `your-company-worker.zip`
 
 ## Installation
