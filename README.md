@@ -29,7 +29,12 @@ This plugin checks to see if the MainWP Child plugin is installed and activated;
 
 Installable just like a regular WP plugin from the WordPress UI or manually via SFTP.
 
-1. Upload `your-company-worker.zip` to the `/wp-content/plugins/` directory
+**WordPress UI**
+1. First thing you need to visit https://CHILD-SITE-DOMAIN/wp-admin/plugin-install.php?tab=upload
+1. Activate the plugin by clicking the BLUE [ Activate Plugin ] button. 
+
+**MANUAL SFTP**
+1. Upload `your-company-worker.zip` to the `/wp-content/plugins/` directory 
 1. Activate the plugin through the 'Plugins' menu in WordPress
 
 #### Workflow Ideas
