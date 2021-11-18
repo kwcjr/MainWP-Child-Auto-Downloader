@@ -42,6 +42,7 @@ Installable just like a regular WP plugin from the WordPress UI or manually via 
 Create a signup form simply requesting an **Admin Account Username** of which you have instructed your client to create with an **EXTREAMLY secure/long password** that nobody will ever see - and then provide this plugin as a *downloadable* when your service has been purchased along with the default WP Plugin installation instructions above.
 
 You connect via MainWP Dashboard to the clients website using the provided **Admin Account Username** & the MainWP White Label Extension takes care of the rest of the branding on the MainWP Child Plugin.
+
 ---
 
 ## Changelog
